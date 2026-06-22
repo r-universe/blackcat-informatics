@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/blackcat-informatics/blackcat-informatics.r-universe.dev
 	branch = HEAD
+[submodule "gmeowgts"]
+	path = gmeowgts
+	url = https://github.com/Blackcat-Informatics/gmeow-gts
+	branch = main
+	subdir = r
